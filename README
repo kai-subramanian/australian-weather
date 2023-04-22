@@ -1,3 +1,2 @@
-Took the Kaggle dataset and code to build a model to predict the rain probability using Australian weather data
-Improved performance of logistic regression function by a factor of 0.47x, by increasing maximum iterations to 1k
+Took the Kaggle dataset and code to build a model to predict the rain probability using Australian weather data.
 Best accuracy achieved was 85.7% using XGBoost
